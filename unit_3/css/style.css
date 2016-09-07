@@ -6,8 +6,12 @@ body {
 }
 
 h1, p {
-    color: 255,211,206;
+    color: (255,211,206);
 }
 h1 {
 	font-style: italic;
+	font-size: 28px;
+}
+p {
+	font-size: 22px;
 }
