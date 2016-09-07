@@ -7,17 +7,20 @@ body {
 }
 h1 {
 	font-size: 32px;
-	color: blanchedalmond;
+	color: #fffacd;
 }
 h3, {
 	font-style: italic;
-}
-h3, p {
 	font-size: 22px;
-	color: blanchedalmond;
+	color: #fffacd;
+	font-weight: 900;
+}
+p {
+	font-size: 22px;
+	color: #fffacd;
 	font-weight: 900;
 }
 ul,li {
 	font-size: 20px;
-	color: blanchedalmond;
+	color: #fffacd;
 }
