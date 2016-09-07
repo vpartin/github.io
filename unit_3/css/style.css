@@ -3,13 +3,17 @@ body {
     background-size: cover;
     text-align: center;
     font-family: Futura;
-    font-weight: 800;
-    color: (255,211,206);
+    font-weight: 900;
 }
 h1 {
 	font-style: italic;
 	font-size: 32px;
 }
 p {
-	font-size: 22px;
+	font-size: 24px;
+	color: (255,211,206);
+	font-weight: 900;
+}
+ul {
+	font-size: 24px;
 }
