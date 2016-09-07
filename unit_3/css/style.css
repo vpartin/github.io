@@ -6,14 +6,18 @@ body {
     font-weight: 900;
 }
 h1 {
-	font-style: italic;
 	font-size: 32px;
+	color: white;
 }
-p {
+h3, {
+	font-style:
+}
+h3, p {
 	font-size: 24px;
-	color: (255,211,206);
+	color: white;
 	font-weight: 900;
 }
 ul {
 	font-size: 24px;
+	color: white;
 }
