@@ -1,13 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans);
 body {
     background: url("http://www.vosizneias.com/wp-content/uploads/2010/07/recycling-clothing.jpg");
     background-size: cover;
     text-align: center;
-    font-family: Helvetica;
     font-weight: 900;
     color: white;
 }
 h1 {
 	font-size: 32px;
+	  font-family: 'Work Sans';
 }
 h3, {
 	font-size: 22px;
