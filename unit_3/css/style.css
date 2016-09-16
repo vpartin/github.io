@@ -1,26 +1,38 @@
-@import url(https://fonts.googleapis.com/css?family=Work+Sans);
+@import 'https://fonts.googleapis.com/css?family=Titillium+Web:900';
+@import 'https://fonts.googleapis.com/css?family=Rozha+One';
+
 body {
     background: url("http://www.vosizneias.com/wp-content/uploads/2010/07/recycling-clothing.jpg");
     background-size: cover;
     text-align: center;
     font-weight: 900;
-    color: white;
 }
 h1 {
-	font-size: 32px;
-	  font-family: 'Work Sans';
-}
-h3, {
-	font-size: 22px;
-	font-style: italic;
+	font-size: 34px;
+	font-family: 'Titillium Web'; 
+	color: black;
 	font-weight: 900;
+}
+h2 {
+	font-size: 28px;
+	font-weight: 900;
+	font-family: 'Titillium Web';
+	color: black;
+	font-style: bold;
 }
 p {
 	font-size: 22px;
 	font-weight: 900;
-	margin: 100px 150px 100px 80px;
+	color: black;
+	max-width: 600px;
+	margin: 0 auto;
 }
 ul,li {
 	font-size: 20px;
 	list-style-type: none;
+}
+#slogan {
+	max-width: 600px;
+	margin: 0 auto;
+    font-family: 'Rozha One', serif;
 }
