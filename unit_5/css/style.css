@@ -1,0 +1,92 @@
+@import 'https://fonts.googleapis.com/css?family=Titillium+Web:900';
+@import 'https://fonts.googleapis.com/css?family=Rozha+One';
+
+body {
+    background: url("http://www.vosizneias.com/wp-content/uploads/2010/07/recycling-clothing.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: 900;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+section: {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;	
+}
+div: {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	font-size: 34px;
+	font-family: 'Titillium Web'; 
+	color: black;
+	font-weight: 900;
+}
+h2 {
+	font-size: 28px;
+	font-weight: 900;
+	font-family: 'Titillium Web';
+	color: black;
+	font-style: bold;
+}
+p {
+	font-size: 22px;
+	font-weight: 900;
+	color: black;
+	max-width: 600px;
+	margin: 0 auto;
+    font-family: 'Rozha One', serif;
+}
+ul,li {
+	font-size: 20px;
+	list-style-type: none;
+	font-family: 'Rozha One', serif;
+}
+#slogan {
+	max-width: 600px;
+	margin: 0 auto;
+    font-family: 'Rozha One', serif;
+}
+#wrapper {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+#summary {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+#why {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+
+
+
+
+
