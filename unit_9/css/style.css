@@ -18,7 +18,7 @@ nav li {
 article {
 }
 footer {
-	background-color: #E55B88;
+	background-color: #21EC40;
     border: 1px black solid;
     padding: 20px;
 }
@@ -26,20 +26,21 @@ h1 {
 	font-family: 'Titillium Web'; 
     padding: 20px;
     text-align: center;
-    font-size: 36px;
+    font-size: 3.5em;
     
 }
 h2 {
 	font-family: 'Titillium Web';
     padding: 20px;
     text-align: center;
-    font-size: 36px;
+    font-size: 2.5em;
     width: 50%;
     margin: 0 auto;
 }
 p {
     font-family: 'Rozha One', serif;
     text-align: center;
+    font-size: 1.5em
 
 }
 ul,li {
@@ -62,7 +63,7 @@ ul,li {
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: #21EC40;
     border: 1px black solid;
     padding: 20px;
     text-align: right;
@@ -73,7 +74,7 @@ ul,li {
 #left ul li {
 }
 #description-container {    
-	background-color: #E55B88;
+	background-color: #ACFBB8;
     border: 1px black solid;
     padding: 20px;
 
@@ -89,7 +90,7 @@ ul,li {
 }
 
 #two_column { 
-    background-color: #FFB7CF;
+    background-color: #C8F8CF;
     border: 1px black solid;
     padding: 5px;
     float: left;
@@ -101,7 +102,7 @@ ul,li {
 @media only screen and (max-width: 1200px) {
 
 #two_column { 
-    background-color: #FFB7CF;
+    background-color: #C8F8CF;
     border: 1px black solid;
     padding: 5%;
     float: right;
